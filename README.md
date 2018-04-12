@@ -1,4 +1,5 @@
 1.) Pi als Standard Pi einrichten
+
 Noobs herunterladen
 Herunterladen
 https://www.raspberrypi.org/downloads/
@@ -10,6 +11,7 @@ Putty –> einloggen mit UID: pi  PW raspberry, Passwort mit passwd
 sudo apt-get upgrade und sudo apt-get update
 
 2.) Kirchenstream einrichten
+
 fbi installieren:  sudo apt-get install fbi
 viewrk.sh erzeugen
 gewünschtes Startbild als jpeg oder png in Verzeichnis /home/pi stellen und in Viewrk.sh darauf verweisen (z.B. splashneu.png)
